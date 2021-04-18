@@ -1,3 +1,59 @@
-h1 {
-    color: red;
+body {
+
 }
+
+.gdr {
+    /* Vector */
+    height: 82.70001220703125px;
+    width: 149.35000610351562px;
+    left: 0.79998779296875px;
+    top: 0.29998779296875px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 65.8px;
+    right: 1150.85px;
+    top: 48.3px;
+    bottom: 29.66%;
+
+    color: #000000;
+
+}
+
+.line {
+    /* Vector */
+    height: 0px;
+    width: 98px;
+    left: 1px;
+    top: 99.5px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 66px;
+    right: 50.75%;
+    top: 135px;
+    bottom: 15.68%;
+    /*border: 3px solid #000000;*/
+}
+
+.project_text {
+    /* Vector */
+    height: 28.290000915527344px;
+    width: 91.46099853515625px;
+    left: 108.6099853515625px;
+    top: 82.70999145507812px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: 173.61px;
+    right: 1100.31px;
+    top: 130.71px;
+    bottom: 5.93%;
+
+    color: #000000;
+
+}
+
+
+
+
