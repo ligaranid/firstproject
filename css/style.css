@@ -51,8 +51,89 @@ body {
     bottom: 5.93%;
 
     color: #000000;
+}
+
+.heading p {
+    /* TRAINING PROJECT TITLE */
+
+    position: absolute;
+    width: 400px;
+    height: 32px;
+    left: 61px;
+    top: 170px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 37px;
+
+    color: #000000;
+
 
 }
+
+.subtitle p {
+    /* Training project subtitle */
+
+    position: absolute;
+    width: 443px;
+    height: 32px;
+    left: 61px;
+    top: 240px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 22px;
+
+    color: #000000;
+}
+
+.content hr {
+    /* Line 1 */
+
+    position: absolute;
+    width: 1235px;
+    height: 0px;
+    left: 61px;
+    top: 304px;
+
+    border: 0.5px solid #000000;
+}
+
+.content p {
+        /* This is an educational project for training web design skills. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, nostrum omnis! Ab debitis dolores esse ex hic, ipsum maiores officiis provident qui quibusdam quod saepe? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, nostrum omnis! Ab debitis dolores esse ex hic, ipsum maiores officiis provident qui quibusdam quod saepe? */
+
+    position: absolute;
+    width: 897px;
+    height: 77px;
+    left: 61px;
+    top: 328px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+
+.line2 hr {
+        /* Line 2 */
+
+    position: absolute;
+    width: 1235px;
+    height: 0px;
+    left: 61px;
+    top: 433px;
+
+    border: 0.5px solid #000000;
+
+}
+
 
 
 
