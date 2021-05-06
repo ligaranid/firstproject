@@ -1,88 +1,48 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+body {
+    position: relative;
+    width: 1366px;
+    height: 1545px;
+
+    background: #FFFFFF;
 }
 
 .gdr {
-    /* Vector */
-    height: 82.70001220703125px;
-    width: 149.35000610351562px;
-    left: 0.79998779296875px;
-    top: 0.29998779296875px;
-    border-radius: 0px;
-
     position: absolute;
-    left: 65.8px;
-    right: 1150.85px;
-    top: 48.3px;
-    bottom: 29.66%;
-
-    color: #000000;
-
+    width: 201px;
+    height: 118px;
+    left: 65px;
+    top: 48px;
 }
-
-.line {
-    /* Vector */
-    height: 0px;
-    width: 98px;
-    left: 1px;
-    top: 99.5px;
-    border-radius: 0px;
-
-    position: absolute;
-    left: 66px;
-    right: 50.75%;
-    top: 135px;
-    bottom: 15.68%;
-    /*border: 3px solid #000000;*/
-}
-
-.project_text {
-    /* Vector */
-    height: 28.290000915527344px;
-    width: 91.46099853515625px;
-    left: 108.6099853515625px;
-    top: 82.70999145507812px;
-    border-radius: 0px;
-
-    position: absolute;
-    left: 173.61px;
-    right: 1100.31px;
-    top: 130.71px;
-    bottom: 5.93%;
-
-    color: #000000;
-}
-
-.heading p {
+.heading {
     /* TRAINING PROJECT TITLE */
-
+    display: block;
     position: absolute;
-    width: 400px;
+    width: 394px;
     height: 32px;
     left: 61px;
     top: 170px;
 
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 30px;
     line-height: 37px;
 
     color: #000000;
-
-
 }
 
-.subtitle p {
+.subtitle {
     /* Training project subtitle */
 
     position: absolute;
     width: 443px;
     height: 32px;
     left: 61px;
-    top: 240px;
+    top: 229px;
 
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 19px;
@@ -98,7 +58,7 @@ body {
     width: 1235px;
     height: 0px;
     left: 61px;
-    top: 304px;
+    top: 284px;
 
     border: 0.5px solid #000000;
 }
@@ -110,7 +70,7 @@ body {
     width: 897px;
     height: 77px;
     left: 61px;
-    top: 328px;
+    top: 300px;
 
     font-family: Roboto;
     font-style: normal;
@@ -121,20 +81,256 @@ body {
     color: #000000;
 }
 
-.line2 hr {
+.line1 {
         /* Line 2 */
 
     position: absolute;
     width: 1235px;
     height: 0px;
     left: 61px;
-    top: 433px;
+    top: 413px;
 
     border: 0.5px solid #000000;
 
 }
 
+.sub2 {
+    /* Now we use... */
+
+    position: absolute;
+    width: 222px;
+    height: 26px;
+    left: 61px;
+    top: 436px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
 
 
+}
 
+.img1 {
+    position: absolute;
+    width: 99px;
+    height: 99px;
+    left: 61px;
+    top: 520px;
+}
 
+.html5 {
+    /* HTML 5 */
+
+    position: absolute;
+    width: 81px;
+    height: 19px;
+    left: 71px;
+    top: 614px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    text-align: center;
+
+    color: #000000;
+}
+
+.img2 {
+    position: absolute;
+    width: 88px;
+    height: 99px;
+    left: 71px;
+    top: 696px; 
+}
+
+.css_text {
+    /* CSS 3 */
+
+    position: absolute;
+    width: 81px;
+    height: 19px;
+    left: 75px;
+    top: 790px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    text-align: center;
+
+    color: #000000;
+}
+
+.sub3 {
+    /* ... a little bit later we will use */
+
+    position: absolute;
+    width: 320px;
+    height: 26px;
+    left: 61px;
+    top: 845px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+
+.img3 {
+    /* javascript 1 */
+
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 61px;
+    top: 930px;
+}
+
+.line2 {
+    /* Line 3 */
+
+    position: absolute;
+    width: 1235px;
+    height: 0px;
+    left: 61px;
+    top: 1081px;
+
+    border: 0.5px solid #000000;
+}
+
+.text1 {
+    /* After we learn the basics, we should decide on the direction of development (front-end or back-end) */
+
+    position: absolute;
+    width: 797px;
+    height: 22px;
+    left: 60px;
+    top: 1101px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+
+.frontend p {
+    /* if we choose frontend then we will study: */
+
+    position: absolute;
+    width: 797px;
+    height: 20px;
+    left: 60px;
+    top: 1143px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+
+.frontend ul {
+    position: absolute;
+    left: 40px;
+    top: 1176px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.frontend li span {
+    color: #0170BA;
+}
+
+.backend p {
+    /* if we choose frontend then we will study: */
+
+    position: absolute;
+    width: 797px;
+    height: 20px;
+    left: 61px;
+    top: 1306px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+
+.backend ol {
+    /* PHP */
+
+    position: absolute;
+    left: 40px;
+    top: 1329px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.backend li span {
+    color: #E34F26;
+}
+
+.line3 {
+    position: absolute;
+    width: 1235px;
+    height: 0px;
+    left: 62px;
+    top: 1478px;
+
+    border: 0.3px solid #000000;
+    transform: rotate(-0.05deg);
+}
+
+.text2 {
+    position: absolute;
+    width: 797px;
+    height: 22px;
+    left: 62px;
+    top: 1487px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+
+.colortext {
+    color: blue;
+}
