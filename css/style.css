@@ -9,20 +9,16 @@ body {
 }
 
 .gdr {
-    position: absolute;
+    position: static;
     width: 201px;
     height: 118px;
-    left: 65px;
-    top: 48px;
 }
 .heading {
     /* TRAINING PROJECT TITLE */
     display: block;
-    position: absolute;
+    position: static;
     width: 394px;
     height: 32px;
-    left: 61px;
-    top: 170px;
 
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -36,11 +32,9 @@ body {
 .subtitle {
     /* Training project subtitle */
 
-    position: absolute;
+    position: static;
     width: 443px;
     height: 32px;
-    left: 61px;
-    top: 229px;
 
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -51,14 +45,12 @@ body {
     color: #000000;
 }
 
-.content hr {
+.line0 {
     /* Line 1 */
 
-    position: absolute;
+    position: static;
     width: 1235px;
     height: 0px;
-    left: 61px;
-    top: 284px;
 
     border: 0.5px solid #000000;
 }
@@ -66,11 +58,9 @@ body {
 .content p {
         /* This is an educational project for training web design skills. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, nostrum omnis! Ab debitis dolores esse ex hic, ipsum maiores officiis provident qui quibusdam quod saepe? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, nostrum omnis! Ab debitis dolores esse ex hic, ipsum maiores officiis provident qui quibusdam quod saepe? */
 
-    position: absolute;
+    position: static;
     width: 897px;
     height: 77px;
-    left: 61px;
-    top: 300px;
 
     font-family: Roboto;
     font-style: normal;
@@ -84,11 +74,9 @@ body {
 .line1 {
         /* Line 2 */
 
-    position: absolute;
+    position: static;
     width: 1235px;
     height: 0px;
-    left: 61px;
-    top: 413px;
 
     border: 0.5px solid #000000;
 
@@ -97,11 +85,9 @@ body {
 .sub2 {
     /* Now we use... */
 
-    position: absolute;
+    position: static;
     width: 222px;
     height: 26px;
-    left: 61px;
-    top: 436px;
 
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -115,21 +101,17 @@ body {
 }
 
 .img1 {
-    position: absolute;
+    position: static;
     width: 99px;
     height: 99px;
-    left: 61px;
-    top: 520px;
 }
 
 .html5 {
     /* HTML 5 */
 
-    position: absolute;
+    position: static;
     width: 81px;
     height: 19px;
-    left: 71px;
-    top: 614px;
 
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -143,21 +125,17 @@ body {
 }
 
 .img2 {
-    position: absolute;
+    position: static;
     width: 88px;
     height: 99px;
-    left: 71px;
-    top: 696px; 
 }
 
 .css_text {
     /* CSS 3 */
 
-    position: absolute;
+    position: static;
     width: 81px;
     height: 19px;
-    left: 75px;
-    top: 790px;
 
     font-family: Roboto;
     font-style: normal;
@@ -173,11 +151,9 @@ body {
 .sub3 {
     /* ... a little bit later we will use */
 
-    position: absolute;
+    position: static;
     width: 320px;
     height: 26px;
-    left: 61px;
-    top: 845px;
 
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -191,21 +167,17 @@ body {
 .img3 {
     /* javascript 1 */
 
-    position: absolute;
+    position: static;
     width: 100px;
     height: 100px;
-    left: 61px;
-    top: 930px;
 }
 
 .line2 {
     /* Line 3 */
 
-    position: absolute;
+    position: static;
     width: 1235px;
     height: 0px;
-    left: 61px;
-    top: 1081px;
 
     border: 0.5px solid #000000;
 }
@@ -213,11 +185,9 @@ body {
 .text1 {
     /* After we learn the basics, we should decide on the direction of development (front-end or back-end) */
 
-    position: absolute;
+    position: static;
     width: 797px;
     height: 22px;
-    left: 60px;
-    top: 1101px;
 
     font-family: 'Roboto', sans-serif;
     font-style: italic;
@@ -231,11 +201,9 @@ body {
 .frontend p {
     /* if we choose frontend then we will study: */
 
-    position: absolute;
+    position: static;
     width: 797px;
     height: 20px;
-    left: 60px;
-    top: 1143px;
 
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -247,9 +215,7 @@ body {
 }
 
 .frontend ul {
-    position: absolute;
-    left: 40px;
-    top: 1176px;
+    position: static;
 
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -268,12 +234,9 @@ body {
 .backend p {
     /* if we choose frontend then we will study: */
 
-    position: absolute;
+    position: static;
     width: 797px;
     height: 20px;
-    left: 61px;
-    top: 1306px;
-
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -286,9 +249,7 @@ body {
 .backend ol {
     /* PHP */
 
-    position: absolute;
-    left: 40px;
-    top: 1329px;
+    position: static;
 
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -305,22 +266,18 @@ body {
 }
 
 .line3 {
-    position: absolute;
+    position: static;
     width: 1235px;
     height: 0px;
-    left: 62px;
-    top: 1478px;
 
     border: 0.3px solid #000000;
     transform: rotate(-0.05deg);
 }
 
 .text2 {
-    position: absolute;
+    position: static;
     width: 797px;
     height: 22px;
-    left: 62px;
-    top: 1487px;
 
     font-family: 'Roboto', sans-serif;
     font-style: normal;
