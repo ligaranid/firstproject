@@ -9,14 +9,12 @@ body {
 }
 
 .gdr {
-    position: static;
     width: 201px;
     height: 118px;
 }
 .heading {
     /* TRAINING PROJECT TITLE */
     display: block;
-    position: static;
     width: 394px;
     height: 32px;
 
@@ -31,8 +29,6 @@ body {
 
 .subtitle {
     /* Training project subtitle */
-
-    position: static;
     width: 443px;
     height: 32px;
 
@@ -46,9 +42,6 @@ body {
 }
 
 .line0 {
-    /* Line 1 */
-
-    position: static;
     width: 1235px;
     height: 0px;
 
@@ -57,8 +50,6 @@ body {
 
 .content p {
         /* This is an educational project for training web design skills. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, nostrum omnis! Ab debitis dolores esse ex hic, ipsum maiores officiis provident qui quibusdam quod saepe? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, nostrum omnis! Ab debitis dolores esse ex hic, ipsum maiores officiis provident qui quibusdam quod saepe? */
-
-    position: static;
     width: 897px;
     height: 77px;
 
@@ -72,9 +63,6 @@ body {
 }
 
 .line1 {
-        /* Line 2 */
-
-    position: static;
     width: 1235px;
     height: 0px;
 
@@ -84,8 +72,6 @@ body {
 
 .sub2 {
     /* Now we use... */
-
-    position: static;
     width: 222px;
     height: 26px;
 
@@ -101,15 +87,12 @@ body {
 }
 
 .img1 {
-    position: static;
     width: 99px;
     height: 99px;
 }
 
 .html5 {
     /* HTML 5 */
-
-    position: static;
     width: 81px;
     height: 19px;
 
@@ -125,15 +108,12 @@ body {
 }
 
 .img2 {
-    position: static;
     width: 88px;
     height: 99px;
 }
 
 .css_text {
     /* CSS 3 */
-
-    position: static;
     width: 81px;
     height: 19px;
 
@@ -150,8 +130,6 @@ body {
 
 .sub3 {
     /* ... a little bit later we will use */
-
-    position: static;
     width: 320px;
     height: 26px;
 
@@ -166,16 +144,11 @@ body {
 
 .img3 {
     /* javascript 1 */
-
-    position: static;
     width: 100px;
     height: 100px;
 }
 
 .line2 {
-    /* Line 3 */
-
-    position: static;
     width: 1235px;
     height: 0px;
 
@@ -184,8 +157,6 @@ body {
 
 .text1 {
     /* After we learn the basics, we should decide on the direction of development (front-end or back-end) */
-
-    position: static;
     width: 797px;
     height: 22px;
 
@@ -200,8 +171,6 @@ body {
 
 .frontend p {
     /* if we choose frontend then we will study: */
-
-    position: static;
     width: 797px;
     height: 20px;
 
@@ -215,8 +184,6 @@ body {
 }
 
 .frontend ul {
-    position: static;
-
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: bold;
@@ -233,8 +200,6 @@ body {
 
 .backend p {
     /* if we choose frontend then we will study: */
-
-    position: static;
     width: 797px;
     height: 20px;
     font-family: 'Roboto', sans-serif;
@@ -247,10 +212,6 @@ body {
 }
 
 .backend ol {
-    /* PHP */
-
-    position: static;
-
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: bold;
@@ -266,7 +227,6 @@ body {
 }
 
 .line3 {
-    position: static;
     width: 1235px;
     height: 0px;
 
@@ -275,7 +235,6 @@ body {
 }
 
 .text2 {
-    position: static;
     width: 797px;
     height: 22px;
 
